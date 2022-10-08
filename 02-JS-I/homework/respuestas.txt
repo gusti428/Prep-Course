@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ 1) Variable: Es un baul tus juguetes, puede guardarlos de varios tipos lo importante es que cuando vayas a tu baul ese juguete estar ahi esperando par ser usado.
+ 2) Strings: Son caracteres, que pueden ser letras, numeros o simbolos a los que podemos engancharlos entre si y formar cadenas de caracteres, nos permiten manipular texto.
+ 3) Funciones: Conjunto de indicaciones que nos permiten realizar deferentes tareas. 
+ 4) Declaraciones if: Nos permite evaluar una situacion x y determinar que sucede si se cumple una condicion o si no lo hace.
+ 5) Valores Booleanos: Puede tomar dos valores verdadero o falso, nos permiten tomar una parte de nuestro codigo y ejecutarlo.
